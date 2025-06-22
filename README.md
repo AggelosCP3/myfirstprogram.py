@@ -1,7 +1,3 @@
 # myfirstprogram.py
-This is my first Python program on GitHub. 
-
-
-
-
-print("Hello World")
+This is my first Python program on GitHub.
+print("I like basketball")
